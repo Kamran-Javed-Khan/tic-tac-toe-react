@@ -2,6 +2,9 @@
 
 Tic Tac Toe game built using React.
 
+![image](https://github.com/Kamran-Javed-Khan/tic-tac-toe-react/assets/106434452/f261629d-1d4e-4285-8230-b2215fd0a790)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
